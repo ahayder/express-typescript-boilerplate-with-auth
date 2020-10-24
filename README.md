@@ -1,11 +1,4 @@
-```
-Hey There! 🙌 
-🤾 that ⭐️ button if you like this boilerplate. 
-```
-
-<img alt="express-typescript" src="https://geekyants.github.io/express-typescript/public/images/express-typescript.png" height="50%" width="60%">
-
-A boilerplate for [Node.js](https://nodejs.org/en) App.
+## A boilerplate for [Node.js](https://nodejs.org/en) App.
 
 * This boilerplate is built using [Express.js](https://expressjs.com/) web framework, and is using [Typescript Lang](https://www.typescriptlang.org/) for writing the app's logic. 
 * It uses Node's [Cluster API](https://nodejs.org/api/cluster.html), this helps us to take advantage of multi-core systems & to handle the load.
